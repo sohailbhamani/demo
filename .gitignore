@@ -1,4 +1,4 @@
 #Ignore the vagrant dir
 .vagrant
-#ignore vagrant logfiles
+#ignore all logfiles
 *.log
